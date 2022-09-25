@@ -1,0 +1,11 @@
+.btn{
+    border: 1px solid green;
+    color: white;
+    background-color: green;
+    height: 22px;
+    width: 80px;
+    border-radius:3px;
+    font-size: 6px;
+    margin-right: 3px;
+    
+}
